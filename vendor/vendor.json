@@ -261,6 +261,12 @@
 			"revisionTime": "2017-12-09T18:20:14Z"
 		},
 		{
+			"checksumSHA1": "qWSfv6nFxKXv9aIvOB/A+oJ47a8=",
+			"path": "github.com/gorilla/websocket",
+			"revision": "f37d1588608ec036fa9b0b7b8afbde47dc06aea9",
+			"revisionTime": "2018-02-19T07:06:29Z"
+		},
+		{
 			"checksumSHA1": "AQ5QA8O8WMAmN4ZOTxhoac6etWg=",
 			"path": "github.com/knq/sysutil",
 			"revision": "840643935d35cb81c833b4c142357dc9d519e390",
