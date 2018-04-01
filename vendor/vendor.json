@@ -309,6 +309,12 @@
 			"revisionTime": "2018-03-01T17:13:20Z"
 		},
 		{
+			"checksumSHA1": "mIkTZVghO7iEq7mW4gMjVcld0Ek=",
+			"path": "github.com/vjeantet/chromedp/client",
+			"revision": "c34e113cd160e5cb369c00116bf33132b4825c72",
+			"revisionTime": "2018-03-01T17:13:20Z"
+		},
+		{
 			"checksumSHA1": "Jw18+6sOpUlA2HzXdQAXEbVfqj0=",
 			"path": "github.com/vjeantet/chromedp/kb",
 			"revision": "c34e113cd160e5cb369c00116bf33132b4825c72",
