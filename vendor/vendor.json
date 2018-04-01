@@ -21,6 +21,234 @@
 			"revisionTime": "2018-02-16T00:17:33Z"
 		},
 		{
+			"checksumSHA1": "hE/cfDE9Ratog7zzKgucXMwrUZM=",
+			"path": "github.com/chromedp/cdproto/accessibility",
+			"revision": "6213fdcf29aa52c6d52bc5c7e0c38dd172ea6fa6",
+			"revisionTime": "2018-02-16T00:17:33Z"
+		},
+		{
+			"checksumSHA1": "o+XeYoImrNR/3MkHNSWF8mH6ZkM=",
+			"path": "github.com/chromedp/cdproto/animation",
+			"revision": "6213fdcf29aa52c6d52bc5c7e0c38dd172ea6fa6",
+			"revisionTime": "2018-02-16T00:17:33Z"
+		},
+		{
+			"checksumSHA1": "pANc9BhSJqx7lLCJ/IY5lrG05QY=",
+			"path": "github.com/chromedp/cdproto/applicationcache",
+			"revision": "6213fdcf29aa52c6d52bc5c7e0c38dd172ea6fa6",
+			"revisionTime": "2018-02-16T00:17:33Z"
+		},
+		{
+			"checksumSHA1": "Mfey1AxGP2YwnQnfdME1bKsS+2Y=",
+			"path": "github.com/chromedp/cdproto/audits",
+			"revision": "6213fdcf29aa52c6d52bc5c7e0c38dd172ea6fa6",
+			"revisionTime": "2018-02-16T00:17:33Z"
+		},
+		{
+			"checksumSHA1": "t49KJFyAQykXM0mYLmmdkt/3a5I=",
+			"path": "github.com/chromedp/cdproto/browser",
+			"revision": "6213fdcf29aa52c6d52bc5c7e0c38dd172ea6fa6",
+			"revisionTime": "2018-02-16T00:17:33Z"
+		},
+		{
+			"checksumSHA1": "b1QnlyYJ45EjArXxNTBUvvBDFaA=",
+			"path": "github.com/chromedp/cdproto/cachestorage",
+			"revision": "6213fdcf29aa52c6d52bc5c7e0c38dd172ea6fa6",
+			"revisionTime": "2018-02-16T00:17:33Z"
+		},
+		{
+			"checksumSHA1": "/J8q+63AoH5Rq7gWcCT3LDRm4bU=",
+			"path": "github.com/chromedp/cdproto/cdp",
+			"revision": "6213fdcf29aa52c6d52bc5c7e0c38dd172ea6fa6",
+			"revisionTime": "2018-02-16T00:17:33Z"
+		},
+		{
+			"checksumSHA1": "NW/00l7rYYCKxZHjzaRDqSH4WEI=",
+			"path": "github.com/chromedp/cdproto/css",
+			"revision": "6213fdcf29aa52c6d52bc5c7e0c38dd172ea6fa6",
+			"revisionTime": "2018-02-16T00:17:33Z"
+		},
+		{
+			"checksumSHA1": "xs4NhfxjrIJnJ01yPBhH2uAb26Y=",
+			"path": "github.com/chromedp/cdproto/database",
+			"revision": "6213fdcf29aa52c6d52bc5c7e0c38dd172ea6fa6",
+			"revisionTime": "2018-02-16T00:17:33Z"
+		},
+		{
+			"checksumSHA1": "LF/K7nNsglDhE53REXKk7ZrFcAg=",
+			"path": "github.com/chromedp/cdproto/debugger",
+			"revision": "6213fdcf29aa52c6d52bc5c7e0c38dd172ea6fa6",
+			"revisionTime": "2018-02-16T00:17:33Z"
+		},
+		{
+			"checksumSHA1": "qxRtP8c1CUOISSDNJnAYA+VQjkQ=",
+			"path": "github.com/chromedp/cdproto/deviceorientation",
+			"revision": "6213fdcf29aa52c6d52bc5c7e0c38dd172ea6fa6",
+			"revisionTime": "2018-02-16T00:17:33Z"
+		},
+		{
+			"checksumSHA1": "Ym2LwLf3L4yCOpYzsWOJ9F6p/u8=",
+			"path": "github.com/chromedp/cdproto/dom",
+			"revision": "6213fdcf29aa52c6d52bc5c7e0c38dd172ea6fa6",
+			"revisionTime": "2018-02-16T00:17:33Z"
+		},
+		{
+			"checksumSHA1": "SuDyIn2BmHdqEMS2WOYh7D65TSw=",
+			"path": "github.com/chromedp/cdproto/domdebugger",
+			"revision": "6213fdcf29aa52c6d52bc5c7e0c38dd172ea6fa6",
+			"revisionTime": "2018-02-16T00:17:33Z"
+		},
+		{
+			"checksumSHA1": "oWlokyodBeSfa7OYsOJA4RZG0c4=",
+			"path": "github.com/chromedp/cdproto/domsnapshot",
+			"revision": "6213fdcf29aa52c6d52bc5c7e0c38dd172ea6fa6",
+			"revisionTime": "2018-02-16T00:17:33Z"
+		},
+		{
+			"checksumSHA1": "VC4YKuKV4ZagBwho1mQm+A+Ehp0=",
+			"path": "github.com/chromedp/cdproto/domstorage",
+			"revision": "6213fdcf29aa52c6d52bc5c7e0c38dd172ea6fa6",
+			"revisionTime": "2018-02-16T00:17:33Z"
+		},
+		{
+			"checksumSHA1": "R8RFpJ73mQfu8VE9huu0tWtZBdA=",
+			"path": "github.com/chromedp/cdproto/emulation",
+			"revision": "6213fdcf29aa52c6d52bc5c7e0c38dd172ea6fa6",
+			"revisionTime": "2018-02-16T00:17:33Z"
+		},
+		{
+			"checksumSHA1": "NfZ/VNNiF3dG7nV8Rsi0JVEV64A=",
+			"path": "github.com/chromedp/cdproto/headlessexperimental",
+			"revision": "6213fdcf29aa52c6d52bc5c7e0c38dd172ea6fa6",
+			"revisionTime": "2018-02-16T00:17:33Z"
+		},
+		{
+			"checksumSHA1": "NcIFPrdNPDMXUDxzEOQxRAFiVbE=",
+			"path": "github.com/chromedp/cdproto/heapprofiler",
+			"revision": "6213fdcf29aa52c6d52bc5c7e0c38dd172ea6fa6",
+			"revisionTime": "2018-02-16T00:17:33Z"
+		},
+		{
+			"checksumSHA1": "jB04jyvqH4z/EjJiryQdg/vz8hs=",
+			"path": "github.com/chromedp/cdproto/indexeddb",
+			"revision": "6213fdcf29aa52c6d52bc5c7e0c38dd172ea6fa6",
+			"revisionTime": "2018-02-16T00:17:33Z"
+		},
+		{
+			"checksumSHA1": "TDj6Sfh3q5KSBy5jj0km8gd5gLQ=",
+			"path": "github.com/chromedp/cdproto/input",
+			"revision": "6213fdcf29aa52c6d52bc5c7e0c38dd172ea6fa6",
+			"revisionTime": "2018-02-16T00:17:33Z"
+		},
+		{
+			"checksumSHA1": "Aa2H5MQy0sOZmHFXpX6/lvvZVaQ=",
+			"path": "github.com/chromedp/cdproto/inspector",
+			"revision": "6213fdcf29aa52c6d52bc5c7e0c38dd172ea6fa6",
+			"revisionTime": "2018-02-16T00:17:33Z"
+		},
+		{
+			"checksumSHA1": "fCcYqdTPq7JFzy0OW2pBPlkKMz8=",
+			"path": "github.com/chromedp/cdproto/io",
+			"revision": "6213fdcf29aa52c6d52bc5c7e0c38dd172ea6fa6",
+			"revisionTime": "2018-02-16T00:17:33Z"
+		},
+		{
+			"checksumSHA1": "KHbITxBgQjx5NhO/1ddsRjyxRY8=",
+			"path": "github.com/chromedp/cdproto/layertree",
+			"revision": "6213fdcf29aa52c6d52bc5c7e0c38dd172ea6fa6",
+			"revisionTime": "2018-02-16T00:17:33Z"
+		},
+		{
+			"checksumSHA1": "SOUelWlyA5ppKesia+eEn0P/K14=",
+			"path": "github.com/chromedp/cdproto/log",
+			"revision": "6213fdcf29aa52c6d52bc5c7e0c38dd172ea6fa6",
+			"revisionTime": "2018-02-16T00:17:33Z"
+		},
+		{
+			"checksumSHA1": "vjwkbzd5UeMZdnLkIVeKrPYo3cw=",
+			"path": "github.com/chromedp/cdproto/memory",
+			"revision": "6213fdcf29aa52c6d52bc5c7e0c38dd172ea6fa6",
+			"revisionTime": "2018-02-16T00:17:33Z"
+		},
+		{
+			"checksumSHA1": "GpRseLvYxx3jUkKCpmPxIH+ILfY=",
+			"path": "github.com/chromedp/cdproto/network",
+			"revision": "6213fdcf29aa52c6d52bc5c7e0c38dd172ea6fa6",
+			"revisionTime": "2018-02-16T00:17:33Z"
+		},
+		{
+			"checksumSHA1": "UWadPA3kBqe+1rCjrBAKwg6NFNA=",
+			"path": "github.com/chromedp/cdproto/overlay",
+			"revision": "6213fdcf29aa52c6d52bc5c7e0c38dd172ea6fa6",
+			"revisionTime": "2018-02-16T00:17:33Z"
+		},
+		{
+			"checksumSHA1": "CoW7qiNdAL4yq7s13pOgAImcBDo=",
+			"path": "github.com/chromedp/cdproto/page",
+			"revision": "6213fdcf29aa52c6d52bc5c7e0c38dd172ea6fa6",
+			"revisionTime": "2018-02-16T00:17:33Z"
+		},
+		{
+			"checksumSHA1": "3rdE7MHll/KZdnHCAplxbgpHw6I=",
+			"path": "github.com/chromedp/cdproto/performance",
+			"revision": "6213fdcf29aa52c6d52bc5c7e0c38dd172ea6fa6",
+			"revisionTime": "2018-02-16T00:17:33Z"
+		},
+		{
+			"checksumSHA1": "8yt5SJHPpDx2TqFXcNkQzEdQm0Y=",
+			"path": "github.com/chromedp/cdproto/profiler",
+			"revision": "6213fdcf29aa52c6d52bc5c7e0c38dd172ea6fa6",
+			"revisionTime": "2018-02-16T00:17:33Z"
+		},
+		{
+			"checksumSHA1": "c2NiL0ff57/9EPt2gJW9mdDPc8o=",
+			"path": "github.com/chromedp/cdproto/runtime",
+			"revision": "6213fdcf29aa52c6d52bc5c7e0c38dd172ea6fa6",
+			"revisionTime": "2018-02-16T00:17:33Z"
+		},
+		{
+			"checksumSHA1": "zBTvpCdqfFqyOsVG2iXG6A1r294=",
+			"path": "github.com/chromedp/cdproto/security",
+			"revision": "6213fdcf29aa52c6d52bc5c7e0c38dd172ea6fa6",
+			"revisionTime": "2018-02-16T00:17:33Z"
+		},
+		{
+			"checksumSHA1": "ltVuUP9NOwz2EVDDTx7gtEBP6Oc=",
+			"path": "github.com/chromedp/cdproto/serviceworker",
+			"revision": "6213fdcf29aa52c6d52bc5c7e0c38dd172ea6fa6",
+			"revisionTime": "2018-02-16T00:17:33Z"
+		},
+		{
+			"checksumSHA1": "bMub4IdE5tTPVHRVvzw5Uqhy9Y8=",
+			"path": "github.com/chromedp/cdproto/storage",
+			"revision": "6213fdcf29aa52c6d52bc5c7e0c38dd172ea6fa6",
+			"revisionTime": "2018-02-16T00:17:33Z"
+		},
+		{
+			"checksumSHA1": "/vBzY3g3CQrKCStf1+iLDZMCe9Y=",
+			"path": "github.com/chromedp/cdproto/systeminfo",
+			"revision": "6213fdcf29aa52c6d52bc5c7e0c38dd172ea6fa6",
+			"revisionTime": "2018-02-16T00:17:33Z"
+		},
+		{
+			"checksumSHA1": "rq3CdQhzfYl2LVJlQy+s2mLnkUo=",
+			"path": "github.com/chromedp/cdproto/target",
+			"revision": "6213fdcf29aa52c6d52bc5c7e0c38dd172ea6fa6",
+			"revisionTime": "2018-02-16T00:17:33Z"
+		},
+		{
+			"checksumSHA1": "Glkj8QudKcHlmsqB/r2613MTu8o=",
+			"path": "github.com/chromedp/cdproto/tethering",
+			"revision": "6213fdcf29aa52c6d52bc5c7e0c38dd172ea6fa6",
+			"revisionTime": "2018-02-16T00:17:33Z"
+		},
+		{
+			"checksumSHA1": "vNYWcvneMPQWnIyU2hUXfWXnTGM=",
+			"path": "github.com/chromedp/cdproto/tracing",
+			"revision": "6213fdcf29aa52c6d52bc5c7e0c38dd172ea6fa6",
+			"revisionTime": "2018-02-16T00:17:33Z"
+		},
+		{
 			"checksumSHA1": "6QgEV/GaLKr87Lr9pDLJoOSpK2I=",
 			"path": "github.com/clbanning/mxj",
 			"revision": "f65883c94005a944be54d391bf15d52b4eb869c9",
