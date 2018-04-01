@@ -1,0 +1,49 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "2wcgnEdGnKLkBnzkBEC9RmiqP4w=",
+			"path": "github.com/PuerkitoBio/goquery",
+			"revision": "3cb3b8656883c2cc3deb9c643d93ea6e5157e425",
+			"revisionTime": "2016-12-30T03:41:54Z"
+		},
+		{
+			"checksumSHA1": "6QgEV/GaLKr87Lr9pDLJoOSpK2I=",
+			"path": "github.com/clbanning/mxj",
+			"revision": "f65883c94005a944be54d391bf15d52b4eb869c9",
+			"revisionTime": "2017-12-12T15:34:21Z"
+		},
+		{
+			"checksumSHA1": "gcLub3oB+u4QrOJZcYmk/y2AP4k=",
+			"path": "github.com/nu7hatch/gouuid",
+			"revision": "179d4d0c4d8d407a32af483c2354df1d2c91e6c3",
+			"revisionTime": "2013-12-21T20:05:32Z"
+		},
+		{
+			"checksumSHA1": "kZRhErakejBG0U2e8D+Ap/Djje8=",
+			"path": "github.com/phayes/freeport",
+			"revision": "e27662a4a9d6b2083dfd7e7b5d0e30985daca925",
+			"revisionTime": "2017-10-02T18:52:19Z"
+		},
+		{
+			"checksumSHA1": "O44WybfiwUBFyy2ajpWMrJGeWbA=",
+			"path": "github.com/vjeantet/chromedp",
+			"revision": "c34e113cd160e5cb369c00116bf33132b4825c72",
+			"revisionTime": "2018-03-01T17:13:20Z"
+		},
+		{
+			"checksumSHA1": "CfwJNjD3k2ywD0mzRmnJ5bSaEsE=",
+			"path": "github.com/vjeantet/chromedp/runner",
+			"revision": "c34e113cd160e5cb369c00116bf33132b4825c72",
+			"revisionTime": "2018-03-01T17:13:20Z"
+		},
+		{
+			"checksumSHA1": "4TEYFKrAUuwBMqExjQBsnf/CgjQ=",
+			"path": "golang.org/x/sync/syncmap",
+			"revision": "f52d1811a62927559de87708c8913c1650ce4f26",
+			"revisionTime": "2017-05-17T20:25:26Z"
+		}
+	],
+	"rootPath": "github.com/vjeantet/bitfan-transformer-ImageHtmlElement"
+}
