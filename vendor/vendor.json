@@ -9,10 +9,34 @@
 			"revisionTime": "2016-12-30T03:41:54Z"
 		},
 		{
+			"checksumSHA1": "2rWSos1D+xqNSGkvEMOG3pntod8=",
+			"path": "github.com/andybalholm/cascadia",
+			"revision": "349dd0209470eabd9514242c688c403c0926d266",
+			"revisionTime": "2016-12-24T14:14:13Z"
+		},
+		{
+			"checksumSHA1": "D17QKqHA24vZ3/IM2rfIIdfiZdI=",
+			"path": "github.com/chromedp/cdproto",
+			"revision": "6213fdcf29aa52c6d52bc5c7e0c38dd172ea6fa6",
+			"revisionTime": "2018-02-16T00:17:33Z"
+		},
+		{
 			"checksumSHA1": "6QgEV/GaLKr87Lr9pDLJoOSpK2I=",
 			"path": "github.com/clbanning/mxj",
 			"revision": "f65883c94005a944be54d391bf15d52b4eb869c9",
 			"revisionTime": "2017-12-12T15:34:21Z"
+		},
+		{
+			"checksumSHA1": "0uj3/cNtus6GcTck+pG0Mevdrg0=",
+			"path": "github.com/disintegration/imaging",
+			"revision": "1884593a19ddc6f2ea050403430d02c1d0fc1283",
+			"revisionTime": "2017-12-09T18:20:14Z"
+		},
+		{
+			"checksumSHA1": "HIF2ZYMMr2kzt5oE7SRjKefOIOc=",
+			"path": "github.com/mailru/easyjson",
+			"revision": "32fa128f234d041f196a9f3e0fea5ac9772c08e1",
+			"revisionTime": "2017-11-20T08:03:33Z"
 		},
 		{
 			"checksumSHA1": "gcLub3oB+u4QrOJZcYmk/y2AP4k=",
@@ -37,6 +61,12 @@
 			"path": "github.com/vjeantet/chromedp/runner",
 			"revision": "c34e113cd160e5cb369c00116bf33132b4825c72",
 			"revisionTime": "2018-03-01T17:13:20Z"
+		},
+		{
+			"checksumSHA1": "/PGQlVbw8jILX3tLQaYAg6bTAFI=",
+			"path": "golang.org/x/net/html",
+			"revision": "0a9397675ba34b2845f758fe3cd68828369c6517",
+			"revisionTime": "2017-07-19T03:24:12Z"
 		},
 		{
 			"checksumSHA1": "4TEYFKrAUuwBMqExjQBsnf/CgjQ=",
